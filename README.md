@@ -1,2 +1,2 @@
 # population-genetics
-notes after reading papers
+Taking some notes.
